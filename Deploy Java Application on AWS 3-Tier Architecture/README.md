@@ -3,15 +3,15 @@
 ![AWS](https://imgur.com/b9iHwVc.png)
 
 ### TABLE OF CONTENTS
-1. [Goal](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#goal)
-2. [Pre-Requisites](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#pre-requisites)
-3. [Pre-Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#pre-deployment)
-4. [VPC Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#vpc-deployment)
-5. [Maven (Build)](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#maven-build)
-6. [3-Tier Architecture](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#3-tier-architecture)
-7. [Application Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#application-deployment)
-8. [Post-Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#post-deployment)
-9. [Validation](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#validation)
+1. [Goal](https://github.com/rb-balaji/DevOps_Projects/blob/dc649f64281d6e7be5f53ab1cf7effb2405b9b45/Deploy%20Java%20Application%20on%20AWS%203-Tier%20Architecture/README.md#goal)
+2. [Pre-Requisites](https://github.com/rb-balaji/DevOps_Projects/blob/dc649f64281d6e7be5f53ab1cf7effb2405b9b45/Deploy%20Java%20Application%20on%20AWS%203-Tier%20Architecture/README.md#pre-requisites)
+3. [Pre-Deployment](https://github.com/rb-balaji/DevOps_Projects/blob/dc649f64281d6e7be5f53ab1cf7effb2405b9b45/Deploy%20Java%20Application%20on%20AWS%203-Tier%20Architecture/README.md#pre-deployment)
+4. [VPC Deployment](https://github.com/rb-balaji/DevOps_Projects/blob/dc649f64281d6e7be5f53ab1cf7effb2405b9b45/Deploy%20Java%20Application%20on%20AWS%203-Tier%20Architecture/README.md#vpc-deployment)
+5. [Maven (Build)](https://github.com/rb-balaji/DevOps_Projects/blob/dc649f64281d6e7be5f53ab1cf7effb2405b9b45/Deploy%20Java%20Application%20on%20AWS%203-Tier%20Architecture/README.md#maven-build)
+6. [3-Tier Architecture](https://github.com/rb-balaji/DevOps_Projects/blob/dc649f64281d6e7be5f53ab1cf7effb2405b9b45/Deploy%20Java%20Application%20on%20AWS%203-Tier%20Architecture/README.md#3-tier-architecture)
+7. [Application Deployment](https://github.com/rb-balaji/DevOps_Projects/blob/dc649f64281d6e7be5f53ab1cf7effb2405b9b45/Deploy%20Java%20Application%20on%20AWS%203-Tier%20Architecture/README.md#application-deployment)
+8. [Post-Deployment](https://github.com/rb-balaji/DevOps_Projects/blob/dc649f64281d6e7be5f53ab1cf7effb2405b9b45/Deploy%20Java%20Application%20on%20AWS%203-Tier%20Architecture/README.md#post-deployment)
+9. [Validation](https://github.com/rb-balaji/DevOps_Projects/blob/dc649f64281d6e7be5f53ab1cf7effb2405b9b45/Deploy%20Java%20Application%20on%20AWS%203-Tier%20Architecture/README.md#validation)
 ---
 
 ![3-tier application](https://imgur.com/3XF0tlJ.png)
@@ -111,8 +111,3 @@ Deploy AWS Infrastructure resources as shown in the above architecture.
 
 1. Verify you as an administrator able to login to EC2 instances from session manager & from Bastion Host.
 2. Verify if you as an end user able to access application from public internet browser.
-
-# Hit the Star! ⭐
-***If you are planning to use this repo for learning, please hit the star. Thanks!***
-
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
