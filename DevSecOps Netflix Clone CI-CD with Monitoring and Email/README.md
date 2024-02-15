@@ -860,9 +860,4 @@ kubectl get svc #use anyone
 ## Step 14: Terminate instances.
 
 # Thank you
-Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
-
-
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
-
-Ensure to follow me on GitHub. Please star/share this repository!
+Thank you for taking the time read the project. Let me know what you thought!
