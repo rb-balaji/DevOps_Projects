@@ -77,9 +77,4 @@ Login to AWS cloud and create Linux based EC2 instance to complete the below ass
 
 All done? still not confident? repeat the steps!
 
-**Happy Learning!**
-
-# Hit the Star! ⭐
-***If you are planning to use this repo for learning, please hit the star. Thanks!***
-
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+**Happy Devops!!**
