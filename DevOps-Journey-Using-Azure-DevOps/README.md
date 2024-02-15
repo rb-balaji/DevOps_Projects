@@ -101,10 +101,6 @@ You will learn how to setup and configure a pipeline that involves CI/CD
 7. Azure Monitor collects and analyzes health, performance, and usage data.
 
 # Thank you
-Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
+Thank you Let me know your thoughts!
 
-
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
-
-Ensure to follow me on GitHub. Please star/share this repository!
 
