@@ -2,8 +2,6 @@
 
 ![devsecops](https://imgur.com/vORuBnK.png)
 
-# Project Blog link :-
-- https://harshhaa.hashnode.dev/devsecops-netflix-clone-ci-cd-with-monitoring-email
 
 # Project Overview :-
 - ***We will be deploying a Netflix clone. We will be using Jenkins as a CICD tool and deploying our application on a Docker container and Kubernetes Cluster and we will monitor the Jenkins and Kubernetes metrics using Grafana, Prometheus and Node exporter. I Hope this detailed blog is useful.***
